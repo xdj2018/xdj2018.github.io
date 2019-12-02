@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>大O表示法</title>
+      <link href="/2019/12/02/%E5%A4%A7O%E8%A1%A8%E7%A4%BA%E6%B3%95/"/>
+      <url>/2019/12/02/%E5%A4%A7O%E8%A1%A8%E7%A4%BA%E6%B3%95/</url>
+      
+        <content type="html"><![CDATA[<h1 id="大O表示法"><a href="#大O表示法" class="headerlink" title="大O表示法"></a>大O表示法</h1><ul><li><p>大O表示法让你能够比较操作数，它指出了算法运行时间的增速。</p></li><li><p>大O表示法指出了最糟情况下的运行时间</p></li></ul><h2 id="常见的大O运行时间"><a href="#常见的大O运行时间" class="headerlink" title="常见的大O运行时间:"></a>常见的大O运行时间:</h2><ul><li>O(log n),也叫对数时间，如二分查找</li><li>O(n),也叫线性时间，如简单查找</li><li>O(n * log n)，如快速排序</li><li>O(n²)，如选择排序</li><li>O(n!)，旅行商问题</li></ul>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+  
+  
+</search>
